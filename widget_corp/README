@@ -1,0 +1,8 @@
+This project is to demonstrate competency with Full-Stack Development Skills, by contructing a simple CMS application.
+
+
+Incorporates:
+* User and Admin logins
+* Using CRUD to change site content
+* Different user-interfaces for User and Admin accounts
+* Password encryption
